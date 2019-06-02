@@ -31,5 +31,11 @@
                 "HTMLDomParser": "Ammadeuss\\LaravelHtmlDomParser\\Facade"
             }
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:turkishjoe/php-simple-html-dom-parser.git"
+        }
+    ]
 }
