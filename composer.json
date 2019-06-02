@@ -9,7 +9,7 @@
     "require": {
     	"php": ">=5.6",
         "illuminate/support": "^5.2",
-        "sunra/php-simple-html-dom-parser": "^1.5"
+        "sunra/php-simple-html-dom-parser": "dev-master"
     },
     "homepage": "https://github.com/ammadeuss/html-dom-parser",
     "license": "MIT",
